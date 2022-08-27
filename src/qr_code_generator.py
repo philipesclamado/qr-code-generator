@@ -3,4 +3,4 @@ import png
 
 
 def run():
-    IMAGE.png("UVEEC-invitation.png", scale=4)
+    IMAGE.png("image.png", scale=4)
