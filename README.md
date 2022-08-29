@@ -4,9 +4,9 @@ A software that generates QR code.
 
 ## Running the app
 
-Create a .env file in the same directory that contains the link
+Create a .env file in the same directory that contains the URL
 ```
-
+URL=
 ```
 
 _(install pipenv `pip install pipenv`, `pipenv install`)_
