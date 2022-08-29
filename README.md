@@ -6,7 +6,7 @@ A software that generates QR code.
 
 Create a .env file in the same directory that contains
 ```
-URL=[some link]
+URL=some_link
 ```
 
 _(install pipenv `pip install pipenv`, `pipenv install`)_
