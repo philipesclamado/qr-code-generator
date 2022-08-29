@@ -4,7 +4,7 @@ A software that generates QR code.
 
 ## Running the app
 
-Create a .env file in the same directory that contains
+Create a .env file in the same directory that contains:
 ```
 URL=some_link
 ```
